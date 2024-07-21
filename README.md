@@ -1,7 +1,9 @@
 # Power-BI-project
-My Power BI project file
+My Power BI project files.
 <br>
-Project Objective
+Project Objective:-
+<\br>
+<br>
 To develop a comprehensive credit 
 card weekly dashboard that 
 provides real-time insights into key 
